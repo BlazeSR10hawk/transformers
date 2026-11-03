@@ -1,0 +1,9 @@
+target_context_tokens,mode,median_cache_MiB,median_peak_cuda0_allocated_MiB
+1024,dynamic_greedy,25.16,3092.54
+1024,dynamic_assisted,25.16,3097.53
+1024,fp8_greedy,12.58,3081.5
+1024,fp8_assisted,12.58,3086.86
+4096,dynamic_greedy,108.96,4879.15
+4096,dynamic_assisted,108.96,4886.68
+4096,fp8_greedy,54.33,4829.0
+4096,fp8_assisted,54.25,4835.81

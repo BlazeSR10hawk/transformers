@@ -1,0 +1,17 @@
+target_context_tokens,trial,mode,latency_seconds,end_to_end_tokens_per_second,generated_tokens
+1024,1,dynamic_greedy,1.844,26.037,48
+1024,1,dynamic_assisted,2.815,17.051,48
+1024,1,fp8_greedy,2.01,23.876,48
+1024,1,fp8_assisted,2.857,16.803,48
+1024,2,dynamic_greedy,1.815,26.441,48
+1024,2,dynamic_assisted,2.804,17.121,48
+1024,2,fp8_greedy,2.021,23.755,48
+1024,2,fp8_assisted,2.871,16.717,48
+4096,1,dynamic_greedy,3.808,10.768,41
+4096,1,dynamic_assisted,6.028,6.801,41
+4096,1,fp8_greedy,3.489,8.599,30
+4096,1,fp8_assisted,5.381,4.46,24
+4096,2,dynamic_greedy,3.847,10.658,41
+4096,2,dynamic_assisted,6.051,6.775,41
+4096,2,fp8_greedy,3.553,8.443,30
+4096,2,fp8_assisted,5.261,4.562,24
